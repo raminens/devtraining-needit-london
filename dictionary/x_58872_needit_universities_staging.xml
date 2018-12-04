@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="universities_staging" max_length="40" name="x_58872_needit_universities_staging" type="collection">
+        <element attributes="import_attribute_name=A,edge_encryption_enabled=true" label="A" max_length="40" name="u_a" type="string"/>
+        <element attributes="import_attribute_name=B,edge_encryption_enabled=true" label="B" max_length="40" name="u_b" type="string"/>
+    </element>
+</database>
